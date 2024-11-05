@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uyepaiyo.github.io/UEt/sitemap_index.txt
+Sitemap: https://uyepaiyo.github.io/WkE/sitemap_index.txt
+Sitemap: https://uyepaiyo.github.io/kYc/sitemap_index.txt
+Sitemap: https://uyepaiyo.github.io/wQg/sitemap_index.txt
